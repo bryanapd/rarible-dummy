@@ -1,27 +1,527 @@
 [
   {
     "name": "CyberBrokers",
-    "image": "https://img.rarible.com/prod/image/upload/t_avatar_big/prod-collections/0x892848074ddea461a15f337250da3ce55580ca85/avatar/QmX6BHiHLibTwPV2rDAhLapnsxLHsVjg2wzT5etsw7mW71",
-    "totalSale": "$5,494,187"
+    "address": "0x892848074ddea461a15f337250da3ce55580ca85",
+    "symbol": "CB",
+    "supply": 54941876,
+    "assetType": "ERC721"
   },
   {
     "name": "BoredApeYachtClub",
-    "image": "https://img.rarible.com/prod/image/upload/t_avatar_big/prod-collections/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/avatar/QmfNrXe67J4t1EvXLxPhxTavQCLryurWFj1DDRKkjNQqit",
-    "totalSale": "$2,160,271"
+    "address": "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d",
+    "symbol": "BACY",
+    "supply": 2160271,
+    "assetType": "ERC721"
   },
   {
     "name": "Gutter Juice",
-    "image": "https://img.rarible.com/prod/image/upload/t_avatar_big/prod-collections/0x092bbc993042a69811d23feb0e64e3bfa0920c6a/avatar/QmWynkxfXggZ6B5dRTPgWjbAevufXPnY5gSmiGhMbbeJk1",
-    "totalSale": "$2,732,877"
+    "address": "0xbd4455da5929d5639ee098abfaa3241e9ae111af",
+    "symbol": "GJ",
+    "supply": 2732877,
+    "assetType": "ERC721"
   },
   {
     "name": "NFT Worlds",
-    "image": "https://img.rarible.com/prod/image/upload/t_avatar_big/prod-collections/0xbd4455da5929d5639ee098abfaa3241e9ae111af/avatar/QmaNwMKTvUkEZB6fnSuUwFFa2DnnEhAudsRTAB9of7k58t",
-    "totalSale": "$2,071,709"
+    "address": "0xbd4455da5929d5639ee098abfaa3241e9ae111af",
+    "symbol": "NFTW",
+    "supply": 20000313,
+    "assetType": "ERC721"
   },
   {
     "name": "MutantApeYachtClub",
-    "image": "https://img.rarible.com/prod/image/upload/t_avatar_big/prod-collections/0x60e4d786628fea6478f785a6d7e704777c86a7c6/avatar/QmaoafyjBy97NKEPZzAD3FK8RcwCJHb263dDJbhCaXPWpo",
-    "totalSale": "$1,514,249"
+    "address": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
+    "symbol": "APEC",
+    "supply": 3287392,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "QuantumKeyRing",
+    "address": "0x9705a7113363a383c8a96689e20286abe6612bb3",
+    "symbol": "QKR",
+    "supply": 4245353,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "CloneX",
+    "address": "0x49cf6f5d44e70224e2e23fdcdd2c053f30ada28b",
+    "symbol": "CX",
+    "supply": 1535521,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Doodles",
+    "address": "0x8a90cab2b38dba80c64b7734e58ee1db38b8992e",
+    "symbol": "DDL",
+    "supply": 12001874,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "3Landers",
+    "address": "0xb4d06d46a8285f4ec79fd294f78a881799d8ced9",
+    "symbol": "3LLL",
+    "supply": 120323512,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Dour Darcels",
+    "address": "0x8d609bd201beaea7dccbfbd9c22851e23da68691",
+    "symbol": "DD",
+    "supply": 199144142,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Weirdos",
+    "address": "0x3f93d710ff8c449ea300ad69412e7b8f289a2954",
+    "symbol": "WW",
+    "supply": 13827495,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Quirkies Originals",
+    "address": "0x3903d4ffaaa700b62578a66e7a67ba4cb67787f9",
+    "symbol": "QOLS",
+    "supply": 144054721,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Cartoons NFT",
+    "address": "0xee29700134aab4f45b113e43e29ff06ce10687b7",
+    "symbol": "CNFT",
+    "supply": 18673600,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Azuki",
+    "address": "0xed5af388653567af2f388e6224dc7c4b3241c544",
+    "symbol": "AZK",
+    "supply": 9397992,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "VeeFriends",
+    "address": "0xa3aee8bce55beea1951ef834b99f3ac60d1abeeb",
+    "symbol": "VFF",
+    "supply": 3683756,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "TWD Walker Access Pass",
+    "address": "0xabf66ca534f8a5081303e3873f0f4771c67b7b45",
+    "symbol": "TWAP",
+    "supply": 18239459,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Mavia Land",
+    "address": "0x4a537f61ef574153664c0dbc8c8f4b900cacbe5d",
+    "symbol": "MAL",
+    "supply": 2223391,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "RaidParty Fighters",
+    "address": "0x87e738a3d5e5345d6212d8982205a564289e6324",
+    "symbol": "RPF",
+    "supply": 23285642,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Loser Club",
+    "address": "0x709d30f1f60f03d85a0ef33142ef3259392dc9e1",
+    "symbol": "LOC",
+    "supply": 89371932,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Luxury Rugs",
+    "address": "0x13225f3c304c47a6781e7f710a30c36cdee9e982",
+    "symbol": "LUG",
+    "supply": 647193811,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "RTFKT - MNLTH",
+    "address": "0x86825dfca7a6224cfbd2da48e85df2fc3aa7c4b1",
+    "symbol": "RTFKT",
+    "supply": 99317371,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "PROOF Collective Grails",
+    "address": "0xb6329bd2741c4e5e91e26c4e653db643e74b2b19",
+    "symbol": "PCG",
+    "supply": 328779191,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Antonym: GENESIS",
+    "address": "0x7e3ef31186d1bec0d3f35ad701d065743b84c790",
+    "symbol": "AGEN",
+    "supply": 7489966731,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Sandbox's LANDs",
+    "address": "0x5cc5b05a8a13e3fbdb0bb9fccd98d38e50f90c38",
+    "symbol": "SLAND",
+    "supply": 877991123,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Troverse Planets",
+    "address": "0x762bc5880f128dcac29cffdde1cf7ddf4cfc39ee",
+    "symbol": "TPL",
+    "supply": 766391931,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "WonderPals",
+    "address": "0x3acce66cd37518a6d77d9ea3039e00b3a2955460",
+    "symbol": "WPS",
+    "supply": 511217892,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Cool Cats",
+    "address": "0x1a92f7381b9f03921564a437210bb9396471050c",
+    "symbol": "CCT",
+    "supply": 511217892,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Clay Friends",
+    "address": "0xfde881c7b76ad10b59a82247e1cd3cbad0d739f3",
+    "symbol": "CLF",
+    "supply": 897790113,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Art Blocks Factory",
+    "address": "0xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270",
+    "symbol": "ABF",
+    "supply": 897790113,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Metroverse City Block",
+    "address": "0x0e9d6552b85be180d941f1ca73ae3e318d2d4f1f",
+    "symbol": "MCB",
+    "supply": 17634373,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Loveless City Metropass",
+    "address": "0x8338d085aae3ac048b9e1de285fdef508ce73e45",
+    "symbol": "LCM",
+    "supply": 87793913,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Hero",
+    "address": "0x966731dfd9b9925dd105ff465687f5aa8f54ee9f",
+    "symbol": "HERO",
+    "supply": 9787791,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "DAPE: Activated",
+    "address": "0xacecb5d0b8c1b74a8745733dbe458a1546e32096",
+    "symbol": "DPA",
+    "supply": 14766211,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Brian Nfts By Braindom",
+    "address": "0x7ad922413739ebd7f1cb8fdcf74e6936dcec9e51",
+    "symbol": "BNBB",
+    "supply": 18221196,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "SoulZ Monogatari",
+    "address": "0xa5c807a62cd6774d6bf518dd2dec0ae17446ad8d",
+    "symbol": "SZM",
+    "supply": 22386991,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Cool Pets",
+    "address": "0x86c10d10eca1fca9daf87a279abccabe0063f247",
+    "symbol": "CPS",
+    "supply": 61139888,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Wabi Sabi Collective",
+    "address": "0x0d3669c118330b1990bfb416691982f342e5e9f0",
+    "symbol": "WSC",
+    "supply": 387769901,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "MetaHero Universe: Planet Tokens",
+    "address": "0x7deb7bce4d360ebe68278dee6054b882aa62d19c",
+    "symbol": "MUPT",
+    "supply": 18221196,
+    "assetType": "ERC1155"
+  },
+  {
+    "name": "#LetsWalk",
+    "address": "0x0825f050e9b021a0e9de8cb1fb10b6c9f41e834c",
+    "symbol": "LW",
+    "supply": 98890901,
+    "assetType": "ERC1155"
+  },
+  {
+    "name": "BoredApeKennelClub",
+    "address": "0xba30e5f9bb24caa003e9f2f0497ad287fdf95623",
+    "symbol": "BAKC",
+    "supply": 37669912,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Dented Feels",
+    "address": "0xc5e55e4bd5fef12831b5a666fc9e391538acdc45",
+    "symbol": "DEF",
+    "supply": 477993131,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Cartoons NFT",
+    "address": "0xee29700134aab4f45b113e43e29ff06ce10687b7",
+    "symbol": "CNFT",
+    "supply": 769973133,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "The Bibiz",
+    "address": "0x00abdb2fbbc763b6b4a8700e10550ad74dac4d43",
+    "symbol": "BBZ",
+    "supply": 376899167,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Feline Fiendz",
+    "address": "0xacfa101ece167f1894150e090d9471aee2dd3041",
+    "symbol": "FF",
+    "supply": 767521212,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Bobu, the Bean Farmer",
+    "address": "0x2079812353e2c9409a788fbf5f383fa62ad85be8",
+    "symbol": "BBF",
+    "supply": 896637311,
+    "assetType": "ERC1155"
+  },
+  {
+    "name": "KARAFURU",
+    "address": "0xd2f668a8461d6761115daf8aeb3cdf5f40c532c6",
+    "symbol": "KFR",
+    "supply": 387668121,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Satoshi Runners",
+    "address": "0x080ce3620a3cfed6119d6c8db0f9a56e52451729",
+    "symbol": "SATRUN",
+    "supply": 97876631,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Project Godjira Generation 2",
+    "address": "0xedc3ad89f7b0963fe23d714b34185713706b815b",
+    "symbol": "PGG2",
+    "supply": 308987891,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "RTFKT - CloneX Mintvial",
+    "address": "0x348fc118bcc65a92dc033a951af153d14d945312",
+    "symbol": "RTFKT",
+    "supply": 600787991,
+    "assetType": "ERC1155"
+  },
+  {
+    "name": "parallel",
+    "address": "0x76be3b62873462d2142405439777e971754e8e77",
+    "symbol": "PARALLEL",
+    "supply": 18221196,
+    "assetType": "ERC1155"
+  },
+  {
+    "name": "HAPE PRIME",
+    "address": "0x4db1f25d3d98600140dfc18deb7515be5bd293af",
+    "symbol": "HPRIME",
+    "supply": 38996001,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "ALIENFRENS",
+    "address": "0x123b30e25973fecd8354dd5f41cc45a3065ef88c",
+    "symbol": "ALIEN",
+    "supply": 70088311,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Wizard Pass",
+    "address": "0x3d4264bff123e68dba7647469787bc763c6c5389",
+    "symbol": "WIZ",
+    "supply": 9990031310,
+    "assetType": "ERC1155"
+  },
+  {
+    "name": "Super Ordinary Villains",
+    "address": "0xe24e4d4535f504d6d7957356534e23b4e787289f",
+    "symbol": "SOV",
+    "supply": 90988831,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Worldwide Webb Land",
+    "address": "0xa1d4657e0e6507d5a94d06da93e94dc7c8c44b51",
+    "symbol": "WWBBL",
+    "supply": 3987996711,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "PROOF Collective",
+    "address": "0x08d7c0242953446436f34b4c78fe9da38c73668d",
+    "symbol": "PROOFC",
+    "supply": 9881571100,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "adidas Originals: Into the Metaverse",
+    "address": "0x28472a58a490c5e09a238847f66a68a47cc76f0f",
+    "symbol": "ADIDAS",
+    "supply": 5908387810,
+    "assetType": "ERC1155"
+  },
+  {
+    "name": "KPOP CTzen",
+    "address": "0xbbbbfcb29c56a5e0e251164a2554637096155ba9",
+    "symbol": "KPOPCTZ",
+    "supply": 736899873,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Starcatchers",
+    "address": "0x69b9c98e8d715c25b330d0d4eb07e68cbb7f6cfc",
+    "symbol": "SCS",
+    "supply": 5897731312,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "JRNY NFT Club",
+    "address": "0x0b4b2ba334f476c8f41bfe52a428d6891755554d",
+    "symbol": "JRNY",
+    "supply": 19870011,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Town Star",
+    "address": "0xc36cf0cfcb5d905b8b513860db0cfe63f6cf9f5c",
+    "symbol": "TSTOKEN",
+    "supply": 789320011,
+    "assetType": "ERC1155"
+  },
+  {
+    "name": "Grandpa Ape Country Club",
+    "address": "0x656b9e24de2e41a94a7dbbaeb3937777cf34e448",
+    "symbol": "GACC",
+    "supply": 993778911,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "WaveCatchers",
+    "address": "0x1a331c89898c37300ccce1298c62aefd3dfc016c",
+    "symbol": "WAVEC",
+    "supply": 789773782,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "RubberDuckBathParty",
+    "address": "0x7a4d1b54dd21dde804c18b7a830b5bc6e586a7f6",
+    "symbol": "RDBP",
+    "supply": 687799311,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "The sunnies collection",
+    "address": "0x06fd3999fa72163c6f21f649587e6b6d670cdc8b",
+    "symbol": "SUNNIES",
+    "supply": 8799010032,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "DeadFellaz",
+    "address": "0x2acab3dea77832c09420663b0e1cb386031ba17b",
+    "symbol": "DEADF",
+    "supply": 934506791,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "BFF Friendship Bracelets",
+    "address": "0x72d47d4d24018ec9048a9b0ae226f1c525b7e794",
+    "symbol": "BFFB",
+    "supply": 298768913,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Tubby Cats",
+    "address": "0xca7ca7bcc765f77339be2d648ba53ce9c8a262bd",
+    "symbol": "TUBBYC",
+    "supply": 67987710,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Pixelated Llama",
+    "address": "0x9df8aa7c681f33e442a0d57b838555da863504f3",
+    "symbol": "PXEL",
+    "supply": 987701851,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "Psychedelics Anonymous Genesis",
+    "address": "0x75e95ba5997eb235f40ecf8347cdb11f18ff640b",
+    "symbol": "PAG",
+    "supply": 379790990,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "CoolmansUniverse",
+    "address": "0xa5c0bd78d1667c13bfb403e2a3336871396713c5",
+    "symbol": "CMU",
+    "supply": 670986713,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "HUXLEY Comics",
+    "address": "0x9ca8887d13bc4591ae36972702fdf9de2c97957f",
+    "symbol": "HUXLC",
+    "supply": 8901769971,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "CyberKongz",
+    "address": "0x57a204aa1042f6e66dd7730813f4024114d74f37",
+    "symbol": "CYBERKING",
+    "supply": 87992121,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "FLUF",
+    "address": "0xccc441ac31f02cd96c153db6fd5fe0a2f4e6a68d",
+    "symbol": "FLUFTOKEN",
+    "supply": 957988710,
+    "assetType": "ERC721"
+  },
+  {
+    "name": "KaijuKingz",
+    "address": "0x0c2e57efddba8c768147d1fdf9176a0a6ebd5d83",
+    "symbol": "KAIJUK",
+    "supply": 15289091,
+    "assetType": "ERC721"
   }
 ]
