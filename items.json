@@ -1,0 +1,64 @@
+[
+  {
+    "listingId": "5921",
+    "image": "https://rarible.mypinata.cloud/ipfs/QmYDvPAXtiJg7s8JdRBSLWdgSphQdac8j1YuQNNxcGE1hg/5921.png",
+    "name": "Azuki #5921",
+    "price": "0.2",
+    "edition": "1/1",
+    "listingType": "Auction",
+    "currency": "wETH",
+    "chain": "Ethereum",
+    "user": "0xe88edc77da081e4d2483bf79e8c7c88902e19976",
+    "collection": "Azuki"
+  },
+  {
+    "listingId": "0025",
+    "image": "https://rarible.mypinata.cloud/ipfs/QmfQFjxWwQ42DayCQbe8T3r4jUzTTqfnnSvoPsBqEkrBd5/image.png",
+    "name": "BoredCryptoApeClub #0025",
+    "price": "0.039",
+    "edition": "1/1",
+    "listingType": "Auction",
+    "currency": "WETH",
+    "chain": "Ethereum",
+    "user": "0x7f40486784d0895fd0a41727d33b6db92b26255b",
+    "collection": "Rarible"
+  },
+  {
+    "listingId": "",
+    "image": "https://rarible.mypinata.cloud/ipfs/QmaEGWcWAEpZAK5sdH8JmV46L2u59wmtY5AoPzJoDS3utW/image.png",
+    "name": "Indestructible Terminator - Simpsonized Schwarzenegger",
+    "price": "0.12",
+    "edition": "1/1",
+    "listingType": "Auction",
+    "currency": "WETH",
+    "chain": "Ethereum",
+    "user": "0x7f40486784d0895fd0a41727d33b6db92b26255b",
+    "collection": "Simpsonized Crypto Celebrities"
+  },
+  {
+    "listingId": "",
+    "image": "https://rarible.mypinata.cloud/ipfs/QmNV4QAwnbqncfr8pQSxdHH48Avc1bmB6Ddc4gLfjJ9hrN/image.png",
+    "name": "Defender of Gotham - Simpsonized Batman",
+    "price": "0.12",
+    "edition": "1/1",
+    "listingType": "Auction",
+    "currency": "WETH",
+    "chain": "Ethereum",
+    "user": "Francesco Moderato",
+    "collection": "Simpsonized Crypto Celebrities"
+  },
+  {
+    "listingId": "",
+    "image": "https://storage.opensea.io/files/adc55f8db4d7df0e742f7e869db85213.mp4",
+    "name": "The Tank Man - Part 1/4",
+    "price": "0.001",
+    "edition": "1/1",
+    "listingType": "Auction",
+    "currency": "WETH",
+    "chain": "Ethereum",
+    "user": "Haroldo Grossi",
+    "collection": "Rarible"
+  }
+  
+
+]
